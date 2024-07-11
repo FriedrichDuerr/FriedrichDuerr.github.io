@@ -1,0 +1,20 @@
+{
+"schichtstart":1720170309,
+    "schichtende": 1720270309,
+    "lines": [
+        {
+            "soll": 456,
+            "ist": 389
+        },
+        {
+            "soll": 675,
+            "ist": 203
+        },
+        {
+            "soll": 122,
+            "ist": 56
+        }
+    ],
+    "message": "Versammlung um 16:15 Uhr",
+    "taktzeit": 300000
+}
