@@ -1,6 +1,6 @@
 {
-"schichtstart":2024-06-26T15:00:00.098345Z,
-    "schichtende": 2024-06-26T18:00:00.098345Z,
+"schichtstart": "2024-06-26T15:00:00.098345Z",
+    "schichtende": "2024-06-26T18:00:00.098345Z",
     "lines": [
         {
             "soll": 456,
@@ -16,5 +16,5 @@
         }
     ],
     "message": "Versammlung um 16:15 Uhr",
-    "taktzeit": 2024-06-26T18:00:00.098345Z
+    "taktzeit": "2024-06-26T18:00:00.098345Z"
 }
